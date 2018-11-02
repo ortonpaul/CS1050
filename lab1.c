@@ -1,9 +1,11 @@
-//Paul Orton
-//Lab 01
+//Paul Orton, pdokdf
 #include <stdio.h>
 
 int main( void)
 {
+	
 	printf("Hello world!\n");
+
 	return 0;
+
 }
